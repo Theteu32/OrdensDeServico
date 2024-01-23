@@ -1,0 +1,6 @@
+@Ordens_de_serviço_HostAddress = http://localhost:5274
+
+GET {{Ordens_de_serviço_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
